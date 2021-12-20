@@ -1,0 +1,4 @@
+C:\Users\инет\source\repos\paint\paint\obj\Debug\netcoreapp3.1\paint.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\paint\paint\obj\Debug\netcoreapp3.1\paint.AssemblyInfoInputs.cache
+C:\Users\инет\source\repos\paint\paint\obj\Debug\netcoreapp3.1\paint.AssemblyInfo.cs
+C:\Users\инет\source\repos\paint\paint\obj\Debug\netcoreapp3.1\paint.csproj.CoreCompileInputs.cache
